@@ -1,6 +1,6 @@
 # Shop Recipe Project
 
-This is a project that I am currently working on to better my understanding of Angular. The project has multiple sections, and will be updating the repo as I complete each part.
+This is a project that I am currently working on to better my understanding of Angular. The project has multiple sections, and I will be updating the repo as I complete each part.
 
 ## Parts of the Project
 
